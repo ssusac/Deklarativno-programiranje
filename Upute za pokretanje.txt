@@ -1,0 +1,3 @@
+Javascript datoteku potrebno je otvoriti u nekom od editora koji podržavaju takav tip datoteke, ali ja preporučujem Visual Studio Code jer sam njega koristila za izradu implementacije. Kako bi pokrenuli datoteku, potrebno je unutar terminala napisati "node functions.js" i pristisnuti enter. Unutar terminala onda će se vidjeti sva dobivena rješenja funkcija. 
+
+Link za git repozitorij: https://github.com/ssusac/Vlastita-implementacija-map-reduce-i-pipe-funkcija-u-Javascriptu.git
